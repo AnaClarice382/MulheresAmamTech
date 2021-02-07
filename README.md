@@ -40,7 +40,6 @@ O github é maravilhoso mas como tudo na vida tem seus problemas! :D Caso o note
 
 
 Se você é uma pessoa curiosa, aposto que ficou afim de saber mais sobre o projeto né? 
-Então segue algumas informações:
 
 Entre nessa obra divina: https://www.canva.com/design/DAEVYjmMA7Y/K8-36S_r6IXTivH5nVgXZQ/view?utm_content=DAEVYjmMA7Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
