@@ -28,7 +28,7 @@ Fizemos também entrevistas, conversas com várias pessoas, e identificamos que 
 
 Fiz a modelagem do banco de dados, optamos por usar um banco de dados relacional, pelo seus muitos benefícios mas principalmente integridade. 
 
-<img align="center" src="/modelagem do grafico.PNG" />
+<img align="center" src="/modelagem do banco.PNG" />
 
 Essa modelagem foi feita de forma um pouco simplificada mas seguindo as normas dos bancos relacionais. No futuro, essa modelagem já nós permite implementar um modelo de machine learning, JUSTO, que não olhe para as pessoas como uma pessoa que formou em X lugar é melhor do que outra que formou em Y.
 Eu me lembro a todo momento, faço questão de me lembrar, que por mais lindo que seja um algoritmo de aprendizado de máquina, nem todos os problemas do mundo são resolvidos assim. 
